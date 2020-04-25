@@ -1,4 +1,4 @@
-Flutter CoronaVirus information
+Flutter CoronaVirus Information
 =======================
 
 UI of application developed in flutter, with the purpose of taking information, lives, photos, real-time data, images and news from the infected states.
