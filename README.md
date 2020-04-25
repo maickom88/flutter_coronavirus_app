@@ -1,16 +1,28 @@
-# corona_virus
+Flutter CoronaVirus information
+=======================
 
-A new Flutter project.
+UI of application developed in flutter, with the purpose of taking information, lives, photos, real-time data, images and news from the infected states.
 
-## Getting Started
+![](https://github.com/maickom88/flutter_coronavirus_app/blob/master/reviews/behance-corona-virus.jpg?raw=true)
 
-This project is a starting point for a Flutter application.
+#### ❗️ Attention ❗️
 
-A few resources to get you started if this is your first Flutter project:
+The images above were made entirely with photoshop software, with direct manipulation of effects, leftovers and lights.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✔️ Real preview of the interface!
+The real result of the interface is all the images below!
+
+![](https://media.giphy.com/media/QuUixDrNUcbxZyIYce/giphy.gif)
+
+=======================
+
+![](https://github.com/maickom88/flutter_coronavirus_app/blob/master/reviews/Screenshot_20200425-121313.jpg?raw=true)
+
+=======================
+
+![](https://github.com/maickom88/flutter_coronavirus_app/blob/master/reviews/Screenshot_20200425-121320.jpg)
+
+=======================
+
+![](https://github.com/maickom88/flutter_coronavirus_app/blob/master/reviews/Screenshot_20200425-121330.jpg?raw=true)
