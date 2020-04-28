@@ -21,8 +21,4 @@ The real result of the interface is all the images below!
 
 =======================
 
-![](https://github.com/maickom88/flutter_coronavirus_app/blob/master/reviews/Screenshot_20200425-121320.jpg)
-
-=======================
-
 ![](https://github.com/maickom88/flutter_coronavirus_app/blob/master/reviews/Screenshot_20200425-121330.jpg?raw=true)
